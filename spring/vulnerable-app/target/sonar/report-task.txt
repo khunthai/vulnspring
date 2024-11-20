@@ -1,0 +1,6 @@
+projectKey=vulnerable-spring
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=vulnerable-spring
+ceTaskId=55d965fe-5d06-414d-a734-1eb49e3493a5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=55d965fe-5d06-414d-a734-1eb49e3493a5
